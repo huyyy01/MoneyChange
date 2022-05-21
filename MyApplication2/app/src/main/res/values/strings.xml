@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BTQT3</string>
+    <string name="source" translatable="false">Source</string>
+    <string name="destination" translatable="false">Destination</string>
+    <string name="arrow">Arrow</string>
+    <string name="convert" translatable="false">Convert</string>
+    <string name="requires_amount">Requires Amount</string>
+    <string name="zero_place_holder">0</string>
+    <string name="one_place_holder">1</string>
+    <string name="rate">Rate: </string>
+</resources>
